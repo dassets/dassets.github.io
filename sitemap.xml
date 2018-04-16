@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://dassets.github.io/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://dassets.github.io/sdk/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://dassets.github.io/emulator/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://dassets.github.io/frameworks/did/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://dassets.github.io/frameworks/dao/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://dassets.github.io/frameworks/das/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://dassets.github.io/frameworks/dap/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://dassets.github.io/docs/dassets/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://dassets.github.io/docs/how-to/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>https://dassets.github.io/glossary/</loc>
+     <lastmod>2018-04-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>

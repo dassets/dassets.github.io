@@ -1,0 +1,384 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Dasset\u2122\n\n\nA VALUE SYSTEM\n\n\n \n KIRIN\u1d45 RELEASE\n\n\n\n\n\u00a9 2018 Dasset Project \n \nhttp://dasset.bid", 
+            "title": "Dasset\u2122"
+        }, 
+        {
+            "location": "/#dassettm", 
+            "text": "A VALUE SYSTEM     KIRIN\u1d45 RELEASE   \u00a9 2018 Dasset Project    http://dasset.bid", 
+            "title": "Dasset\u2122"
+        }, 
+        {
+            "location": "/sdk/", 
+            "text": "Dasset SDK\n\n\nBUILD DASSET DAPPS\n\n\n \n KIRIN\u1d45 RELEASE\n\n\n\u00a9 2018 Dasset Project \n \nhttp://dasset.bid", 
+            "title": "SDK"
+        }, 
+        {
+            "location": "/sdk/#dasset-sdk", 
+            "text": "BUILD DASSET DAPPS     KIRIN\u1d45 RELEASE  \u00a9 2018 Dasset Project    http://dasset.bid", 
+            "title": "Dasset SDK"
+        }, 
+        {
+            "location": "/emulator/", 
+            "text": "Dasset Emulator\n\n\nRUN DASSET DAPPS ANYWHERE\n\n\n \n KIRIN\u1d45 RELEASE\n\n\n\u00a9 2018 Dasset Project \n \nhttp://dasset.bid", 
+            "title": "Emulator"
+        }, 
+        {
+            "location": "/emulator/#dasset-emulator", 
+            "text": "RUN DASSET DAPPS ANYWHERE     KIRIN\u1d45 RELEASE  \u00a9 2018 Dasset Project    http://dasset.bid", 
+            "title": "Dasset Emulator"
+        }, 
+        {
+            "location": "/frameworks/did/", 
+            "text": "Digital Identity\n\n\nA DIGITAL FINGERPRINT", 
+            "title": "DID"
+        }, 
+        {
+            "location": "/frameworks/did/#digital-identity", 
+            "text": "A DIGITAL FINGERPRINT", 
+            "title": "Digital Identity"
+        }, 
+        {
+            "location": "/frameworks/dao/", 
+            "text": "Digital Asset Omnificence\n\n\nA VALUE TRANSMITTER", 
+            "title": "DAO"
+        }, 
+        {
+            "location": "/frameworks/dao/#digital-asset-omnificence", 
+            "text": "A VALUE TRANSMITTER", 
+            "title": "Digital Asset Omnificence"
+        }, 
+        {
+            "location": "/frameworks/das/", 
+            "text": "Digital Asset System\n\n\nA VALUE TRANSFORMER", 
+            "title": "DAS"
+        }, 
+        {
+            "location": "/frameworks/das/#digital-asset-system", 
+            "text": "A VALUE TRANSFORMER", 
+            "title": "Digital Asset System"
+        }, 
+        {
+            "location": "/frameworks/dap/", 
+            "text": "Digital Asset Platform\n\n\nA TRANSVALUATION PLATFORM", 
+            "title": "DAP"
+        }, 
+        {
+            "location": "/frameworks/dap/#digital-asset-platform", 
+            "text": "A TRANSVALUATION PLATFORM", 
+            "title": "Digital Asset Platform"
+        }, 
+        {
+            "location": "/docs/dassets/", 
+            "text": "Digital Assets\n\n\n\n\n \nDasset Space", 
+            "title": "Digital Assets"
+        }, 
+        {
+            "location": "/docs/dassets/#digital-assets", 
+            "text": "Dasset Space", 
+            "title": "Digital Assets"
+        }, 
+        {
+            "location": "/docs/how-to/", 
+            "text": "How-to Guides\n\n\n\n\n \nQuickstart\n\n\n \nResources", 
+            "title": "How-to Guides"
+        }, 
+        {
+            "location": "/docs/how-to/#how-to-guides", 
+            "text": "Quickstart    Resources", 
+            "title": "How-to Guides"
+        }, 
+        {
+            "location": "/glossary/", 
+            "text": "Glossary\n\n\nAlphabetical\n\n\nA\n \n \nB\n \n \nC\n \n \nD\n \n \nE\n \n \nF\n \n \nG\n \n \nH\n \n \nI\n \n \nJ\n \n \nK\n \n \nL\n \n \nM\n \n \nN\n \n \nO\n \n \nP\n \n \nQ\n \n \nR\n \n \nS\n \n \nT\n \n \nU\n \n \nV\n \n \nW\n \n \nX\n \n \nY\n \n \nZ\n\n\nA\n\n\nAllbot\n\n\nAllbotization (a11n)\n\n\nAlgorand\n\n\nB\n\n\nBabylonium\n\n\nBabylonization (b12n)\n\n\nBAO\n\n\nBIX\n\n\nBUD\n\n\nC\n\n\nD\n\n\nDasset\n\n\nDassetization (d11n)\n\n\nDAO\n\n\nDAP\n\n\nDAS\n\n\nDID\n\n\nDOT\n\n\nE\n\n\nF\n\n\nG\n\n\nH\n\n\nI\n\n\nInternet of Value\n\n\nIntention Economy\n\n\nInterstellar Intention Internet (III, I\u00b3)\n\n\nJ\n\n\nK\n\n\nL\n\n\nM\n\n\nN\n\n\nO\n\n\nP\n\n\nProof of Work (PoW)\n\n\nProof of Sortition (PoS)\n\n\nProof of Concept (PoC)\n\n\nQ\n\n\nQuark\n\n\nQuarkonium\n\n\nQuarkonization (q12n)\n\n\nQuarkship\n\n\nR\n\n\nS\n\n\nSortition\n\n\nStakeless / Stakelessness\n\n\nT\n\n\nTokenization (t10n)\n\n\nU\n\n\nV\n\n\nValue At Space Time (VAST, V\u1d43\u02e2\u1d57)\n\n\nW\n\n\nX\n\n\nY\n\n\nZ", 
+            "title": "Glossary"
+        }, 
+        {
+            "location": "/glossary/#glossary", 
+            "text": "", 
+            "title": "Glossary"
+        }, 
+        {
+            "location": "/glossary/#alphabetical", 
+            "text": "A     B     C     D     E     F     G     H     I     J     K     L     M     N     O     P     Q     R     S     T     U     V     W     X     Y     Z", 
+            "title": "Alphabetical"
+        }, 
+        {
+            "location": "/glossary/#a", 
+            "text": "", 
+            "title": "A"
+        }, 
+        {
+            "location": "/glossary/#allbot", 
+            "text": "", 
+            "title": "Allbot"
+        }, 
+        {
+            "location": "/glossary/#allbotization-a11n", 
+            "text": "", 
+            "title": "Allbotization (a11n)"
+        }, 
+        {
+            "location": "/glossary/#algorand", 
+            "text": "", 
+            "title": "Algorand"
+        }, 
+        {
+            "location": "/glossary/#b", 
+            "text": "", 
+            "title": "B"
+        }, 
+        {
+            "location": "/glossary/#babylonium", 
+            "text": "", 
+            "title": "Babylonium"
+        }, 
+        {
+            "location": "/glossary/#babylonization-b12n", 
+            "text": "", 
+            "title": "Babylonization (b12n)"
+        }, 
+        {
+            "location": "/glossary/#bao", 
+            "text": "", 
+            "title": "BAO"
+        }, 
+        {
+            "location": "/glossary/#bix", 
+            "text": "", 
+            "title": "BIX"
+        }, 
+        {
+            "location": "/glossary/#bud", 
+            "text": "", 
+            "title": "BUD"
+        }, 
+        {
+            "location": "/glossary/#c", 
+            "text": "", 
+            "title": "C"
+        }, 
+        {
+            "location": "/glossary/#d", 
+            "text": "", 
+            "title": "D"
+        }, 
+        {
+            "location": "/glossary/#dasset", 
+            "text": "", 
+            "title": "Dasset"
+        }, 
+        {
+            "location": "/glossary/#dassetization-d11n", 
+            "text": "", 
+            "title": "Dassetization (d11n)"
+        }, 
+        {
+            "location": "/glossary/#dao", 
+            "text": "", 
+            "title": "DAO"
+        }, 
+        {
+            "location": "/glossary/#dap", 
+            "text": "", 
+            "title": "DAP"
+        }, 
+        {
+            "location": "/glossary/#das", 
+            "text": "", 
+            "title": "DAS"
+        }, 
+        {
+            "location": "/glossary/#did", 
+            "text": "", 
+            "title": "DID"
+        }, 
+        {
+            "location": "/glossary/#dot", 
+            "text": "", 
+            "title": "DOT"
+        }, 
+        {
+            "location": "/glossary/#e", 
+            "text": "", 
+            "title": "E"
+        }, 
+        {
+            "location": "/glossary/#f", 
+            "text": "", 
+            "title": "F"
+        }, 
+        {
+            "location": "/glossary/#g", 
+            "text": "", 
+            "title": "G"
+        }, 
+        {
+            "location": "/glossary/#h", 
+            "text": "", 
+            "title": "H"
+        }, 
+        {
+            "location": "/glossary/#i", 
+            "text": "", 
+            "title": "I"
+        }, 
+        {
+            "location": "/glossary/#internet-of-value", 
+            "text": "", 
+            "title": "Internet of Value"
+        }, 
+        {
+            "location": "/glossary/#intention-economy", 
+            "text": "", 
+            "title": "Intention Economy"
+        }, 
+        {
+            "location": "/glossary/#interstellar-intention-internet-iii-i3", 
+            "text": "", 
+            "title": "Interstellar Intention Internet (III, I\u00b3)"
+        }, 
+        {
+            "location": "/glossary/#j", 
+            "text": "", 
+            "title": "J"
+        }, 
+        {
+            "location": "/glossary/#k", 
+            "text": "", 
+            "title": "K"
+        }, 
+        {
+            "location": "/glossary/#l", 
+            "text": "", 
+            "title": "L"
+        }, 
+        {
+            "location": "/glossary/#m", 
+            "text": "", 
+            "title": "M"
+        }, 
+        {
+            "location": "/glossary/#n", 
+            "text": "", 
+            "title": "N"
+        }, 
+        {
+            "location": "/glossary/#o", 
+            "text": "", 
+            "title": "O"
+        }, 
+        {
+            "location": "/glossary/#p", 
+            "text": "", 
+            "title": "P"
+        }, 
+        {
+            "location": "/glossary/#proof-of-work-pow", 
+            "text": "", 
+            "title": "Proof of Work (PoW)"
+        }, 
+        {
+            "location": "/glossary/#proof-of-sortition-pos", 
+            "text": "", 
+            "title": "Proof of Sortition (PoS)"
+        }, 
+        {
+            "location": "/glossary/#proof-of-concept-poc", 
+            "text": "", 
+            "title": "Proof of Concept (PoC)"
+        }, 
+        {
+            "location": "/glossary/#q", 
+            "text": "", 
+            "title": "Q"
+        }, 
+        {
+            "location": "/glossary/#quark", 
+            "text": "", 
+            "title": "Quark"
+        }, 
+        {
+            "location": "/glossary/#quarkonium", 
+            "text": "", 
+            "title": "Quarkonium"
+        }, 
+        {
+            "location": "/glossary/#quarkonization-q12n", 
+            "text": "", 
+            "title": "Quarkonization (q12n)"
+        }, 
+        {
+            "location": "/glossary/#quarkship", 
+            "text": "", 
+            "title": "Quarkship"
+        }, 
+        {
+            "location": "/glossary/#r", 
+            "text": "", 
+            "title": "R"
+        }, 
+        {
+            "location": "/glossary/#s", 
+            "text": "", 
+            "title": "S"
+        }, 
+        {
+            "location": "/glossary/#sortition", 
+            "text": "", 
+            "title": "Sortition"
+        }, 
+        {
+            "location": "/glossary/#stakeless-stakelessness", 
+            "text": "", 
+            "title": "Stakeless / Stakelessness"
+        }, 
+        {
+            "location": "/glossary/#t", 
+            "text": "", 
+            "title": "T"
+        }, 
+        {
+            "location": "/glossary/#tokenization-t10n", 
+            "text": "", 
+            "title": "Tokenization (t10n)"
+        }, 
+        {
+            "location": "/glossary/#u", 
+            "text": "", 
+            "title": "U"
+        }, 
+        {
+            "location": "/glossary/#v", 
+            "text": "", 
+            "title": "V"
+        }, 
+        {
+            "location": "/glossary/#value-at-space-time-vast-vast", 
+            "text": "", 
+            "title": "Value At Space Time (VAST, V\u1d43\u02e2\u1d57)"
+        }, 
+        {
+            "location": "/glossary/#w", 
+            "text": "", 
+            "title": "W"
+        }, 
+        {
+            "location": "/glossary/#x", 
+            "text": "", 
+            "title": "X"
+        }, 
+        {
+            "location": "/glossary/#y", 
+            "text": "", 
+            "title": "Y"
+        }, 
+        {
+            "location": "/glossary/#z", 
+            "text": "", 
+            "title": "Z"
+        }
+    ]
+}
