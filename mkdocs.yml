@@ -1,0 +1,22 @@
+site_name: Dasset™ - A Value System
+site_url: https://dassets.github.io
+repo_url: https://github.com/dassets/dassets.github.io.git
+site_description: 'Dasset Home gh-pages via mkdocs'
+google_analytics: ['UA-79146816-1', 'dassets.github.io']
+edit_uri: edit/master/docs/
+theme:
+  name: mkdocs
+  custom_dir: 'mkdocs_quarkonium'
+pages:
+  - Dasset™: index.md
+  - SDK: sdk.md
+  - Emulator: emulator.md
+  - Frameworks:
+    - DID: 'frameworks/did.md'
+    - DAO: 'frameworks/dao.md'
+    - DAS: 'frameworks/das.md'
+    - DAP: 'frameworks/dap.md'
+  - Documentation:
+    - Digital Assets: 'docs/dassets.md'
+    - How-to Guides: 'docs/how-to.md'
+  - Glossary: glossary.md
